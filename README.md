@@ -1,19 +1,31 @@
-# OTP-ATHENTICATION-SIMULATION
-🚀 Flutter OTP Authentication Simulator
+# 🔐 Flutter OTP AUTHENTICATION SIMULATTION
 
 A complete Firebase OTP authentication simulation system that works 100% offline. Perfect for development and testing without Firebase costs.
 
-✨ Features:
-• Professional UI/UX design
-• Instant OTP verification (Code: 123456)
-• Smooth navigation between screens
-• No internet connection required
-• Easy migration to real Firebase
+## ✨ Features
 
-🛠️ Perfect for:
-- Learning OTP authentication flow
-- Development & testing phases
-- Projects with limited Firebase budget
-- Demonstrating authentication concepts
+- 🎯 **Professional UI/UX** - Beautiful and responsive design
+- ⚡ **Instant Verification** - Use code `123456` for instant access
+- 🔄 **Smooth Navigation** - Seamless flow between screens
+- 📱 **Offline Functionality** - No internet connection required
+- 🚀 **Easy Migration** - Simple switch to real Firebase
 
-#Flutter #Firebase #OTP #Authentication #MobileDevelopment
+## 🎥 Demo
+
+**Test Phone Number:** `+213674738032`  
+**OTP Code:** `123456`
+
+## 🛠️ Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/otp-authentication-simulator.git
+
+# Navigate to project
+cd otp-authentication-simulator
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
